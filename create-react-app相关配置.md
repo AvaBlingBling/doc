@@ -152,6 +152,6 @@ new HtmlWebpackPlugin({
 
 2. 页面调用
 
-`<iframe src="test.html" style={{ height: 500, width: 500 }} />`
+`<iframe src="map.html" style={{ height: 500, width: 500 }} />`
 
 ### 
